@@ -4,7 +4,7 @@ import { useState, useRef, useEffect } from "react";
 const STARTER_PILLS = [
   { emoji: "✨", label: "What's your superpower?" },
   { emoji: "🤝", label: "How would your teammates describe you?" },
-  { emoji: "🧭", label: "How have you directed product direction and decision making?" },
+  { emoji: "🧭", label: "How have you shaped product direction?" },
   { emoji: "💡", label: "How do you get stakeholder buy-in?" },
   { emoji: "🔬", label: "Tell me about a project you're proud of" },
 ];
