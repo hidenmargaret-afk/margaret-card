@@ -6,7 +6,7 @@ const STARTER_PILLS = [
   { emoji: "🤝", label: "How would your teammates describe you?" },
   { emoji: "🧭", label: "How have you shaped product direction?" },
   { emoji: "💡", label: "How do you get stakeholder buy-in?" },
-  { emoji: "🔬", label: "Tell me about a project you're proud of" },
+  { emoji: "🔬", label: "Tell me about a project you're proud of." },
 ];
 
 export default function Home() {
